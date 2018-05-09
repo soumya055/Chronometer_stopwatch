@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="action_about">About app</string>
+    <string name="count_down_timer">00:00:00:000</string>
+    <string name="start">Start</string>
+    <string name="lap">Lap</string>
+    <string name="stop">Stop</string>
+    <string name="counter">01</string>
+    <string name="time_laps">06:00:56:789</string>
+    <string name="app_info">APP INFO</string>
+    <string name="version_7_0_80_43">Version 7.0.80.43</string>
+    <string name="text_message">The latest version is already installed.</string>
+    <string name="about_stopwatch">About Stopwatch</string>
+    <string name="open_source_licenses"><u>Open source licenses</u></string>
+</resources>
